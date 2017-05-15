@@ -11,6 +11,6 @@ th, td{
   border: 1px solid blue;
 }
 .btn{
-  -webkit-appearance: none
-  margin: 5px
+  -webkit-appearance: none;
+  margin: 5px;
 }
