@@ -11,3 +11,7 @@ p{
 li{
   font-size:0.8em;
 }
+phot{
+ float: left;
+ margin-right: 30px
+}
